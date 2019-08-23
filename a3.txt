@@ -1,0 +1,17 @@
+CivilLines 1.093 2 YELLOW
+KashmeriGate 1.194 2 YELLOW
+ChandniChowk 1.174 2 YELLOW
+ChawriBazar 0.650 1 YELLOW
+NewDelhi 1.249 7 YELLOW
+RajivChowk 2.297 4 BLUE
+Jhandewalan 1.062 2 BLUE
+RKAshramMarg 2.209 4 BLUE
+KarolBagh 1.061 2 BLUE
+RajendraPlace  0.931 1 BLUE
+PatelNagar 1.284 2 BLUE
+ShadiPur 0.895 6 BLUE
+KirtiNagar 0.000 0 BLUE
+
+
+
+

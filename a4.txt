@@ -1,0 +1,23 @@
+NoidaCityCenter 1.289 2 BLUE
+GolfCourse 1.432 2 BLUE
+BotanicalGarden 1.098 2 BLUE
+NoidaSec18 1.187 2 BLUE
+NoidaSec16 0.9551 2 BLUE
+NoidaSec15 1.162 2 BLUE
+NewAshokNagar 1.036 1 BLUE
+MayurViharExt 1.210 2 BLUE
+MayurVihar 1.841 2 BLUE
+Akshardham 1.556 2 BLUE
+YamunaBank 1.293 2 BLUE
+LaxmiNagar 1.117 2 RED
+NirmanVihar 1.004 1 RED
+PreetVihar 1.272 2 RED
+Karkarduma 1.058 1 RED
+AnandVihar 0.869 2 RED
+Kaushambi 1.624 2 RED
+Vaishali 0.000 0 RED
+
+
+
+
+
